@@ -1,0 +1,10 @@
+<h1>Kegyhelyünk: a Mamertini feszület kápolnája</h1>
+<p>
+<img class="content_pic_l" src="img/mamertini_feszulet_kicsi.jpg" align="top" alt="Mamertini feszület kicsi"/>Rómában,  a Mamertini börtönben, Szent Péter és Pál apostol raboskodásának helyén  a zarándokok évszázadok óta tisztelnek egy csodálatos fafaragású  feszületet, ide hozzák lelki és testi fájdalmaikat, ezen a helyen  osztják meg azt az értünk szenvedő Mesterrel.<br><br>
+<img class="content_pic_r" src="img/mamertini_emlektabla_kicsi.jpg" align="top" alt="Mamertini femléktábla kicsi"/>
+Amikor  1938-ban a Budapesti Nemzetközi Eucharisztikus Kongresszuson a  plébániánk területéhez tartozó Hősök terén a zarándokcsoportok  bemutatkoztak Eugeno Pacelli pápai legátus (a későbbi boldog emlékű XII.  Piusz pápa), valamint Serédi Jusztinián magyar hercegprímás előtt, az  olasz zarándokcsoport vezetője, Vignilo Lamberto gróf , az olasz Actio  Chatolica elnöke nyújtotta át a kongresszust megszervező magyar népnek a  XI. Piusz pápa áldásában részesült ajándékot: a Memertini feszület  pontos másolatát. Lelki ajándék is volt a gyönyörű kereszt, hiszen a  római ácsok Szent József templomában az olasz zarándokok ünnepi  imanyolcaddal szentelték meg a feszületet.<br><br>
+Serédi   hercegprímás az újonnan felszentelt Szentlélek templomnak ajándékozta   az ereklyét, mivel ennek a plébániának területén folytak a kongresszus   legjelentősebb eseményei és ez a plébánia vette ki leginkább részét a   szervezésben.<br><br>
+A háború sértetlenül hagyta a feszületet, de tisztelete megkopott.<br><br>
+2005. szeptember 14-én, szent Kereszt felmagasztalásának ünnepén P. Alberto olasz kapucinus atya a hívek jelenlétében jelkésesen ismét átadta Pajor András plébánosnak a feszületet és ezzel megújult rendszeres  tisztelete. Korábban minden hónap 14. napján, ma elsőpéntekeken  végezzük el Hazánk  felajánlását a feszület előtt, az este fél 7-kor  kezdődő szentmisével  összefüggően. Minden alkalommal szeretettel várjuk  a zarándokokat és  imacsoportokat.
+
+</p>

@@ -1,0 +1,1 @@
+[19-May-2017 14:35:08 Europe/Budapest] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/sgohehrx/kassaitest.z-poc.hu/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadEnvironmentVariables.php on line 41

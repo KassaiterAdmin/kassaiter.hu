@@ -1,0 +1,9 @@
+Az Ite missa est után a pap az oltár felé fordulva kissé meghajolva mondja a következő imádságot:<br><br>
+<div class="row two_column">
+    <div class="col-lg-4">
+Placeat   tibi, sancta Trinitas, obsequium servitutis meae: et praesta; ut sacrificium,   quod oculis tuae majestatis indignus obtuli, tibi sit acceptabile, mihique et   omnibus, pro quibus illud obtuli, sit, te miserante, propitiabile. Per   Christum Dominum nostrum. Amen.</div>
+    <div class="col-lg-4">
+Legyen   kedves neked, Szentháromság, szolgálatom hódolata és add: hogy az áldozat,   melyet Fölséged színe előtt én méltatlan bemutattam, neked kedves legyen,   nekem pedig és mindazoknak, kikért azt bemutattam, irgalmad által engesztelést   szerezzen. Krisztus, a mi Urunk által. Amen.</div>
+</div>
+Ez a szép ima eszünkbe juttatja a felajánlás imádságait. Ahogy a felajánláskor a pap a Szentháromsághoz fordul („Suscipe, sancta Trinitas...”) s bemutatja a Mindenhatónak az oltáron fekvő áldozati tárgyakat, úgy most a szentmise áldozat bemutatása után ismét a háromszemélyű Istent kéri („Placeat tibi, sancta Trinitas...”), hogy szolgálatának hódolatát kegyesen fogadni méltóztassék.<br><br>
+Ez az ima nem nagyon régi. Régente az Ite missa est-tel, vagyis a hívek elbocsátásával tényleg befejeződött a szertartás. A Placeat ima csak a X. században kezd szokásba jönni, még pedig eleinte mint magánimádság. Egész a XVI. századig ez az ima nem is tartozott a miseszöveghez, hanem a pap a mise bevégzése után hálaadásként imádkozta azt („finitis omnibus”, Microl. 22.). Csak V. Pius pápa csatolta a miseszöveghez (1570). Ezután a pap megcsókolja az oltárt, mely Jézus Krisztust jelképezi s ez a szentmisében az utolsó oltárcsókolás. „Ez a szolga búcsúja attól, akit képviselt a papi szolgálatban s akit magához vett és a híveknek kiosztott a szentségben” (Vandeur. 295.).<br><br>

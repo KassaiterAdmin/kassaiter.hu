@@ -1,0 +1,8 @@
+<h1>Cursillo Közösség</h1>
+<h2>Mi a cursillo?</h2>
+<p>A „cursillo” spanyol eredetű szó, kis vagy rövid tanfolyamot jelent. Csütörtök estétől vasárnap estig tartó rövid együttlét bentlakással, ahol papok és világiak a katolikus hit lényeges igazságait és életformáit mutatják be, nemcsak előadással, hanem beszélgetésekkel, életpéldákkal.</p>
+<p>A három napban Jézus személyére és tanítására összpontosítunk. A résztvevőkkel a keresztény igazságokat éljük át, és ez vágyat ébreszt bennük az Egyház szolgálatára.</p>
+<p>A cursillo ezért nem csupán ismeretet, tudást közvetít, hanem a hit élményét adja. Ehhez szüksége van a résztvevők egész lényére, szívére, lelkére.</p>
+<p>A cursillo lényegéhez tartozik a Szentmise, a közös imádság, a dialógus, a munkatársak személyes tanúságtétele, az öröm. A cursillo nem lelkigyakorlat, hanem elsősorban együttlét, melyben legfontosabb a közös imádság és a beszélgetések.</p>
+<h2>Mi a célja a cursillonak?</h2>
+<p>Szeretnénk, ha az örömteli együttlét a hétvége után is folytatódna. A résztvevők kis csoportokat alakítanak, majd rendszeresen találkoznak, bekapcsolódva az Egyház életébe. Ily módon éljük át a keresztény lét örömét. Így vállunk alkalmassá arra, hogy a társadalommal megismertessük a kereszténységet, hogy annak összetartójává, mozgatójává váljunk, és hogy a cursillo végső célja szerint a Szentlélek által az egész társadalom kereszténnyé váljon.</p>

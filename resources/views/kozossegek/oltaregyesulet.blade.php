@@ -1,0 +1,12 @@
+<h1>Az Oltáregyesület</h1>
+<p>
+Az Oltáregyesület, mint lelkiségi mozgalom 1850-ben, 147 éve jött létre. Alapítója Trautwein János piarista atya.<br><br>
+Az egyesület célja, a legméltóságosabb Oltáriszentség imádása és a szegény templomok segítése. Ma már inkább a betegek látogatása korházban illetve otthon a feladat, az imaórákon kívül. Ma már alig van egyházközség, ahol ne működne Oltáregyesület. Az Oltáregyesület egy, az egész világon. Világ központja Rómában, a Via Nomentanán van, a gyönyörű Corpusz Domini – Az Úr Teste templomában. Magyarországon az Oltáregyesület központi szervezete, az Üllői út 77. alatt van.<br><br>
+Az Oltáregylet igazgatója dr. Székely János, elnöke Bulcsú Józsefné. Az Oltáregyesület tagja, 16 éves kortól bárki lehet. Templomunkban is az Oltáregyesület régi múltra tekint vissza. Kezdetben első csütörtökön, majd 10 éve minden első vasárnap az esti mise előtt 1 órával tartunk imaórát és minden csütörtökön. Mindig lelkes vezetői voltak az Oltáregyesületnek. Legutóbbi Kiss Györgyné Magdika irányította az Oltáregyesületet, de Ő most már fentről irányít, segít minket.<br><br>
+Úgy érzem, napjainkban van miért imádkoznunk és a Szentségi Jézus segítségét kérnünk. Imaóráinkon imádkozunk Egyházközségünkért, papjainkért, betegeinkért, ifjúságunkért, egy-egy testvérünk egyéni szándékáért.<br><br>
+Szemünket az Oltáriszentségre függesztjük és halljuk Jézus szavaidat; „Jöjjetek hozzám mindnyájan, akik fáradtak és terhelve vagytok, és én megenyhítlek titeket.”<br> Ez után csendben magunkba mélyedve beszélgetünk Jézussal. Elmondjuk neki bajainkat, nehézségeinket, erőt és segítséget kérünk Tőle, és Ő mindig meghallgat. Imádjuk és áldjuk, dicsőítjük Jézust az Oltáriszentségben.<br><br>
+Keresztelő Szent János tanítványai azt kérdezték Jézustól; „Mester hol lakol?” Mi már nem kérdezünk ilyet, mert ismerjük Jézus otthonát. Jézus nem akar egyedül virrasztani a Szentségházban. Kérlek benneteket testvéreim, fiatalokat és idősebbeket is, ne hagyjuk Őt egyedül!<br><br>
+Az evangéliumi Márta szavaival zárom beszámolómat;<br><br>
+<strong>„A Mester itt van és hív téged!”</strong><br><br>
+<strong>Ruzsinszkiné Ludvig Etelka</strong><br><br>
+<strong>Oltáregyesület elnök </strong></p>

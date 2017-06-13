@@ -1,0 +1,282 @@
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+
+.article-title{
+  margin: 10px 0;
+}
+.nav-pills{
+  li{
+    a{
+      border-radius: 0 0 6px 6px;
+      color: #333 !important;
+    }
+    a:focus, a:visited, a:hover{
+      color: #333 !important;
+      background-color: #c0a48f !important;
+    }
+  }
+}
+
+a:hover, a:active, a{
+  text-decoration: none;
+}
+
+li.active{
+  a{
+    color: #333 !important;
+    background-color: #c0a48f !important;
+  }
+}
+.top_align{
+  position: relative;
+  top: -32px;
+}
+
+.center_warning{
+  font-weight: bold;
+  text-align: center;
+}
+
+.content_pic{
+  max-width: 100%;
+  vertical-align: text-top;
+  float: left;
+  margin: 5px 10px;
+}
+
+.content_pic_l{
+  width: 20%;
+  vertical-align: text-top;
+  float: left;
+  margin: 5px 10px;
+}
+
+.content_pic_r{
+  width: 20%;
+  vertical-align: text-top;
+  float: right;
+  margin: 5px 10px;
+}
+
+.created{
+  text-align:right;
+}
+.btn-default{
+  height: 40px;
+  width: 100px;
+  border-radius: 0px 4px 4px 0px;
+  border-left: 0;
+  margin: 10px 0;
+}
+.form-control{
+  height: 40px;
+  max-width: calc(100% - 100px);
+  border-radius: 4px 0 0 4px;
+  margin: 10px 0;
+}
+.home_button{
+  padding: 0 !important;
+}
+.centered{
+  margin:auto;
+}
+.glyphicon-chevron-down {
+  font-size: 8px;
+}
+
+.undotted{
+  list-style: none outside none;
+  padding-left: 5px;
+}
+
+footer{
+  background-color: #fff;
+  border-top: 1px solid #ddd;
+}
+header{
+  background: linear-gradient(180deg, rgba(255,255,255,0) 0, rgba(255,255,255,0) 71%, rgba(255,255,255,1) 90%, rgba(255,255,255,1) 100%), url("img/back.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  min-height: 400px;
+}
+
+.hirdetes{
+  margin: 5px;
+  border: 1px solid black;
+  width: 100%;
+  th {
+    text-align: center;
+    font-size: 16pt;
+    padding: 5px;
+  }
+  td{
+    border: 1px solid black;
+    padding: 5px;
+  }
+}
+
+.hirdetes_lista{
+  input{
+    width: 100%;
+  }
+}
+
+.mise_lista{
+  input, table{
+    width: 100%;
+  }
+  th{
+    text-align: center;
+  }
+}
+
+figure {
+  display: table;
+  margin: auto;
+  text-align: center;
+  width: 1px;
+}
+
+h1{
+  text-align: center;
+}
+
+img, figcaption {
+  display: table-row;
+  vertical-align: bottom;
+}
+
+p{
+  padding-top:5px;
+  text-align: justify;
+}
+
+.portre{
+  height: 200px;
+  width: 150px;
+  display: none;
+}
+
+.table-of-content {
+  dl {
+    clear: both;
+    width: 100%;
+    overflow: hidden;
+  }
+  dt, dd {
+    background: #fff
+  }
+  dt {
+    float: left;
+    padding-right: 3px
+  }
+  dd {
+    margin: 0;
+    float: right;
+    padding-left: 3px
+  }
+  ol {
+    margin: 0;
+    padding: 0;
+    list-style: none
+  }
+  li ol {
+    width: 95%;
+    padding-left: 5%
+  }
+}
+
+.table-colored{
+  background-color: #c0a48f;
+  color: #392a27;
+}
+
+.to_top{
+  float: right;
+  background-color: #c0a48f;
+  color: #392a27;
+  border: 1px solid #392a27;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  padding: 5px;
+  a, a:hover, a:visited, a:active{
+    padding-right:5px;
+    text-decoration: none;
+    color: $text-color;
+  }
+}
+
+.change_section{
+  font-size: 8pt;
+  color: $text-color;
+  text-decoration: none;
+  padding: 0 5px;
+}
+
+.two_column{
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+
+.ttag{
+  margin-top: 20px;
+}
+
+.tname{
+  margin-top: 0;
+}
+
+.alert {
+  padding: 5px;
+  margin-bottom: 5px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.multicolumn_list{
+  column-count: 4;
+  column-gap: 6px;
+  list-style-position: inside;
+  padding-left: 0px;
+}
+
+.pdfobject-container {
+  height: 800px;
+  width: 100%;
+}
+.pdfobject { border: 1px solid #666; }
+
+.program_picture{
+  width: 100%;
+  margin: auto;
+  border-radius: 5px;
+}
+
+.program_item{
+  margin-bottom: 15px;
+}
+
+.fontos_info, .fontos_info:hover, .fontos_info:visited, .fontos_info:active{
+  background-color: #c0a48f;
+  color: #392a27;
+  border: 1px solid #392a27;
+  border-radius: 4px;
+  text-align: center;
+  padding: 5px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+h2, h3{
+  padding-top: 10px;
+}
+
+.panel{
+  margin-top:15px;
+}

@@ -1,0 +1,11 @@
+Mielőtt a hívek a szentmisén való részvétel után napi munkájukhoz visszatérnének, a pap a nép felé fordulva a Szentháromság nevében megáldja őket e szavakkal:<br><br>
+<div class="row two_column">
+    <div class="col-lg-4">
+Benedicat   vos omnipotens Deus: Pater, et Filius, et Spiritus Sanctus. <br><br>
+--   Amen.</div>
+    <div class="col-lg-4">
+Áldjon   meg benneteket a mindenható Isten: az Atya, Fiú és Szentlélek. <br><br>
+--   Amen.</div>
+</div>
+Ennek az áldásnak eredetére nézve az első keresztény évezredben nagyon kevés adatot találunk. A VIII. században a pápa az ünnepélyes miseszertartás elvégeztével bevonult a sekrestyébe és útközben az áldását kérő püspököket, papokat s általában a jelenlevőket megáldotta (Ord. Rom. I. 21.). Ebben az időben még nem volt szokás a mise végén áldást adni. Fentebb említettük, hogy a X. századtól kezdve a püspökök az áldozás előtt, helyesebben a Pax Domini előtt ünnepélyes áldást adtak. Ez azonban csak egyes országokban (Franciaország, Spanyolország) volt szokásban és csak a püspökök kiváltsága volt. A XI. században azonban már a mise végén is volt áldás, és már nemcsak a püspökök, hanem a papok is adtak áldást (Microl. 21.).<br><br>
+A püspöki áldást már a XIII. században, Durandus idejében e szavak előzték meg: Sit nomen Domini benedictum ex hoc nunc et usque in saeculum (Legyen az Úr neve áldott, most és mindörökké), továbbá: Adjutorium nostrum in nomine Domini, qui fecit coelum et terram (Az Úr nevében van a mi segedelmünk, aki az eget és a földet teremtette). Ezt a formulát olykor papok is használták. A püspökök mindig kézzel adták az áldást, a papok ellenben némely vidéken paténát, kelyhet vagy korporálét használtak az áldásadáshoz, amennyiben ezek a dolgok a legközvetlenebb érintkezésben voltak a szentmise alatt az eucharisztikus Üdvözítővel. Thalhofer (II. 235.) a XV-XVI. századból több misekönyvet idéz, amelyek szerint akkor az egyszerű papoknak is hármas keresztvetéssel kellett áldást adni. Még V. Pius pápa is a megreformált misekönyvben (1570) az ünnepélyes misét bemutató papok számára három keresztvetést ír elő. A mai szokást, hogy hármas keresztvetéssel csak püspökök adhatnak áldást, VIII. Kelemen pápa rendelte el.<br><br>

@@ -1,0 +1,20 @@
+ A pap már közvetlenül a kánon előtt áll. Még egyszer kifordul a nép felé, hogy mintegy búcsút vegyen a jelenlevőktől, mielőtt a legszentebb áldozat bemutatásához hozzáfogna. Fenséges hivatásának tudatában alázattal kéri a jelenlevők imádságát:<br><br>
+<div class="row two_column">
+    <div class="col-lg-4">
+Orate,   fratres: ut meum ac vestrum sacrificium acceptabile fiat apud Deum Patrem   omnipotentem. <br><br>
+R.   Suscipiat Dominus sacrificium de manibus tuis ad laudem et gloriam nominis   sui, ad utilitatem quoque nostram, totiusque Ecclesiae suae sanctae. Amen.</div>
+    <div class="col-lg-4">
+Imádkozzatok,   testvéreim, hogy az én áldozatom és a ti áldozatotok tetszésre találjon a   mindenható Atyaisten előtt.<br><br>
+R.   Fogadja el az Úr kezedből ezt az áldozatot, nevének dicséretére, dicsőségére,   valamint a mi hasznunkra, és az egész Anyaszentegyház javára.<br><br>
+Amen.</div>
+</div>
+Ez a megható kérés már a XI. században felhangzott a pap ajkán, azzal a különbséggel, hogy régente a pap csak ennyit mondott: „Imádkozzatok, testvérek”, vagy „Imádkozzatok értem” vagy pedig: „Imádkozzatok értem, testvérek (néhol: és nővérek) és én értetek!” Egy utrechti misekönyv szerint a pap még ezt is hozzáfűzte: „mert bűnös ember vagyok” (Vandeur. 164.). A nép hajdanta semmit sem válaszolt, csak csendes imával tett eleget a pap kérésének, de egyébként jobban belekapcsolódott a szentmise bemutatásába, a pappal együtt mintegy a hívek is ténylegesen közreműködtek a szentmisénél, azért akkor nagyobb nyomatékkal mondhatta a miséző: „meum ac vestrum sacrificium” („az én áldozatom és a ti áldozatotok”).<br><br>
+Ezután a pap visszafordul az oltár felé és halk hangon mondja az ún. secretá-t, vagy csöndes imádságot. Már említettük, hogy régente ez volt az egyetlen felajánló imádság, azért Nagy Szent Gergely Sacramentariumában oratio super oblata név alatt fordul elő. A Sacramentarium Gelasianum-ban azonban már secreta nevet visel, mely valószínűleg abból ered, hogy ezt az imát régente is halkan imádkozta a pap. Előtte nincs Oremus, mert ezt pótolja az Orate fratres. A secretá- ban, mely minden misében más, a pap rendesen azért imádkozik, hogy az Úr fogadja kedvesen a felajánlott áldozati tárgyakat (oblata). Ehhez csatlakozik sokszor még egy másik gondolat, melyet az ünnep tárgyköréből vesz az Egyház. Ez a két gondolat nem egyszer szinte művésziesen kapcsolódik egymásba. Pünkösd ünnepén pl. a következő secretá-t imádkozza a pap:<br><br>
+<div class="row two_column">
+    <div class="col-lg-4">
+Munera,   quaesumus, Domine, oblata sanctifica: et corda nostra Sancti Spiritus   illustratione emunda. Per Dominum nostrum Jesum Christum, Filium tuum, qui   tecum vivit et regnat<br><br>
+in   unitate ejusdem Spiritus Sancti, Deus per omnia saecula saeculorum. Amen.</div>
+    <div class="col-lg-4">
+Uram,   kérünk, szenteld meg a neked felajánlott áldozati adományokat: és tisztítsd   meg szívünket s Szentlélek megvilágosításával, Szent Fiad, a mi Urunk Jézus   Krisztus által, ki veled él és uralkodik ugyanazon Szentlélekkel egyetemben,   most és mindörökké. Amen.</div>
+</div>
+A secreta végén a pap Per omnia saecula saeculorum-ot mond, mégpedig hangosan s a nép Amen-t felel rá. A csendes ima végét azért kellett hangosan mondani, vagy énekelni, hogy a hívek s a kórus észrevegyék, amikor a pap áttér a praefatió-ra. Mi már megszoktuk, hogy ez a Per omnia a praefatio elejéhez tartozik, pedig ez tulajdonképpen még a secreta vége s az ún. „kis kánon”, vagyis a mise felajánlási része igazában csak ezzel az Amen-nel végződik. A Per omniá-nak a praefatió- hoz való csatolása tulajdonképpen egy kis eltolódás, mely azonban nemcsak itt, hanem a Pater noster előtt és a Pax Domini előtt is előfordul. Ez az Amen kifejezi a hívek együttérzését és ama készséget, hogy egész lélekkel részt akarnak venni a szentáldozat bemutatásában. <br><br>
