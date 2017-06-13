@@ -29,6 +29,14 @@ Route::get('/mihalovics_zsigmond', function () {
     return view('szemelyek.mihalovics_zsigmond');
 });
 
+Route::get('/pajor_andras', function () {
+    return view('szemelyek.pajor_andras');
+});
+
+Route::get('/hoka_imre', function () {
+    return view('szemelyek.hoka_imre');
+});
+
 Route::get('/olvasnivalo', function () {
     return view('olvasnivalo');
 });

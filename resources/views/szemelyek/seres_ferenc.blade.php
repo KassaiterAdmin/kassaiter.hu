@@ -1,7 +1,7 @@
 @extends('index')
 
 @section('content')
-  <h1>Seres Ferenc<br>1944-1963. volt pélbános</h1>
+  <h2>Seres Ferenc</h2> 1944-1963. volt pélbános
   <p>
       A háború utáni évek plébánosa. Káplánként, majd plébános-helyettesként már a templom felszentelése óta részt vett a plébánia munkájában.
       Plébánossága alatt rendbe hozták a háborúban megsérült templomot, elkezdődött a templom freskóinak festése. Habár az állam tiltotta, a hitélet nem szűnt meg.

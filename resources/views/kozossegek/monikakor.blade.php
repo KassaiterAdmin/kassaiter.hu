@@ -6,7 +6,7 @@
 </figure>
 
 Madridban, az Actio Chatolica gyűlésén többen, lelkes édesanyák elhatározták, hogy napon­ta imádkoznak saját gyermekük, és minden édesanya gyermekének hitéért. A hét egy - általuk szabadon választott - napján, a templomban is el­mondják imájukat. Eszményképük Szent Mónika, Szent Ágoston püspök édesanyja lett.<br><br>
-<img class="content_pic"  alt="szent_monika_1" src="img/kozossegek/szent_monika_1.jpg"/></td>
+<img class="content_pic"  alt="szent_monika_1" src="img/kozossegek/szent_monika_1.jpg"/>
 A közösség 1987-ben kapta meg az Egyház hivatalos jóváhagyását. Hazánkban 1992. augusz­tus 27-én Kalocsán alakult meg az első imacsoport, amelyet az ország különböző pontjain, rövid idő alatt létrejött egyre több kis közösség követett. A megszólított édesanyák szívesen vállalkoztak arra, hogy legszebb és legüdvösebb feladatukat a gyermekeik hitéért, lelki-testi épségért mondott imáikat „csokorba kötve” is átadják az Úrnak. Aki ismeri Szent Ágoston megtérésének történetét, nem kételkedhet a buzgó anyai szív, a szeretet és az ima erejében!<br><br>
 2005. január 28-án Dr. Erdő Péter bíboros, prímás, érsek úr elfogadta felkérést és elvállalta a közösség fővédnökének tisztségét.<br><br>
 Gáspár Ritával, a háromgyermekes családanyával, plébániánk Szent Mónika körének lelkes vezetőjével, - aki hiszi, hogy a magánéletében éppúgy, mint ebben a csodálatos szolgálatban a Szentlélek vezeti és segíti őt -, a helyi közösségről beszélgettem.<br><br>
