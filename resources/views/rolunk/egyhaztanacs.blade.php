@@ -4,7 +4,7 @@
     <h1>Egyháztanácsunk tagjai</h1>
     <div class="row ttag">
         <div class="col-lg-3 hidden">
-            <img class="portre" alt="kep" src="img/tanacs/obertj.jpg"/>
+            <img class="hidden" alt="kep" src="img/tanacs/obertj.jpg"/>
         </div>
         <div class="col-lg-9">
             <h3 class="tname">Óbert János (elnök)</h3>
@@ -17,7 +17,7 @@
     </div>
     <div class="row ttag">
         <div class="col-lg-3 hidden">
-            <img class="portre" alt="kep" src="img/tanacs/biharyz.jpg"/>
+            <img class="hidden" alt="kep" src="img/tanacs/biharyz.jpg"/>
         </div>
         <div class="col-lg-9">
             <h3 class="tname">Bihary Zoltán</h3>
@@ -28,7 +28,7 @@
     </div>
     <div class="row ttag">
         <div class="col-lg-3 hidden">
-            <img class="portre" alt="kep" src="img/tanacs/furulyasg.jpg"/>
+            <img class="hidden" alt="kep" src="img/tanacs/furulyasg.jpg"/>
         </div>
         <div class="col-lg-9">
             <h3 class="tname">Furulyás Gábor</h3>
@@ -40,7 +40,7 @@
     </div>
     <div class="row ttag">
         <div class="col-lg-3 hidden">
-            <img class="portre" alt="kep" src="img/tanacs/solteszp.jpg"/>
+            <img class="hidden" alt="kep" src="img/tanacs/solteszp.jpg"/>
         </div>
         <div class="col-lg-9">
             <h3 class="tname">Soltész Péter</h3>
@@ -51,7 +51,7 @@
     </div>
     <div class="row ttag">
         <div class="col-lg-3 hidden">
-            <img class="portre" alt="kep" src="img/tanacs/vinczej.jpg"/>
+            <img class="hidden" alt="kep" src="img/tanacs/vinczej.jpg"/>
         </div>
         <div class="col-lg-9">
             <h3 class="tname">Vincze János</h3>
@@ -73,7 +73,7 @@
     </div>
     <div class="row ttag">
         <div class="col-lg-3 hidden">
-            <img class="portre" alt="kep" src="img/tanacs/szalayk.jpg"/>
+            <img class="hidden" alt="kep" src="img/tanacs/szalayk.jpg"/>
         </div>
         <div class="col-lg-9">
             <h3 class="tname">Dr. Szalay Kornél</h3>
@@ -85,7 +85,7 @@
     </div>
     <div class="row ttag">
         <div class="col-lg-3 hidden">
-            <img class="portre" alt="kep" src="img/tanacs/foldesm.jpg"/>
+            <img class="hidden" alt="kep" src="img/tanacs/foldesm.jpg"/>
         </div>
         <div class="col-lg-9">
             <h3 class="tname">Földes Mária</h3>
@@ -104,7 +104,7 @@
     </div>
     <div class="row ttag">
         <div class="col-lg-3 hidden">
-            <img class="portre" alt="kep" src="img/tanacs/zsemberya.jpg"/>
+            <img class="hidden" alt="kep" src="img/tanacs/zsemberya.jpg"/>
         </div>
         <div class="col-lg-9">
             <h3 class="tname">Dr. Zsembery Ákos</h3>
@@ -115,7 +115,7 @@
     </div>
     <div class="row ttag">
         <div class="col-lg-3 hidden">
-            <img class="portre" alt="kep" src="img/tanacs/gasparr.jpg"/>
+            <img class="hidden" alt="kep" src="img/tanacs/gasparr.jpg"/>
         </div>
         <div class="col-lg-9">
             <h3 class="tname">Gáspár Rita</h3>
@@ -126,7 +126,7 @@
     </div>
     <div class="row ttag">
         <div class="col-lg-3 hidden">
-            <img class="portre" alt="kep" src="img/tanacs/vinczeb.jpg"/>
+            <img class="hidden" alt="kep" src="img/tanacs/vinczeb.jpg"/>
         </div>
         <div class="col-lg-9">
             <h3 class="tname">Vincze Bence</h3>
@@ -137,7 +137,7 @@
     </div>
     <div class="row ttag">
         <div class="col-lg-3 hidden">
-            <img class="portre" alt="kep" src="img/tanacs/gasparcs.jpg"/>
+            <img class="hidden" alt="kep" src="img/tanacs/gasparcs.jpg"/>
         </div>
         <div class="col-lg-9">
             <h3 class="tname">Gáspár Csaba</h3>
@@ -149,7 +149,7 @@
     </div>
     <div class="row ttag">
         <div class="col-lg-3 hidden">
-            <img class="portre" alt="kep" src="img/tanacs/kissm.jpg"/>
+            <img class="hidden" alt="kep" src="img/tanacs/kissm.jpg"/>
         </div>
         <div class="col-lg-9">
             <h3 class="tname">Kiss Máté</h3>
@@ -160,7 +160,7 @@
     </div>
     <div class="row ttag">
         <div class="col-lg-3 hidden">
-            <img class="portre" alt="kep" src="img/tanacs/laszloi.jpg"/>
+            <img class="hidden" alt="kep" src="img/tanacs/laszloi.jpg"/>
         </div>
         <div class="col-lg-9">
             <h3 class="tname">László István</h3>
@@ -171,7 +171,7 @@
     </div>
     <div class="row ttag">
         <div class="col-lg-3 hidden">
-            <img class="portre" alt="kep" src="img/tanacs/kucsmak.jpg"/>
+            <img class="hidden" alt="kep" src="img/tanacs/kucsmak.jpg"/>
         </div>
         <div class="col-lg-9">
             <h3 class="tname">Kucsma Katalin</h3>
@@ -183,7 +183,7 @@
     </div>
     <div class="row ttag">
         <div class="col-lg-3 hidden">
-            <img class="portre" alt="kep" src="img/tanacs/diospatonyim.jpg"/>
+            <img class="hidden" alt="kep" src="img/tanacs/diospatonyim.jpg"/>
         </div>
         <div class="col-lg-9">
             <h3 class="tname">Dióspatonyi Márta</h3>
@@ -194,7 +194,7 @@
     </div>
     <div class="row ttag">
         <div class="col-lg-3 hidden">
-            <img class="portre" alt="kep" src="img/tanacs/bendek.jpg"/>
+            <img class="hidden" alt="kep" src="img/tanacs/bendek.jpg"/>
         </div>
         <div class="col-lg-9">
             <h3 class="tname">Bende Krisztián</h3>
@@ -205,7 +205,7 @@
     </div>
     <div class="row ttag">
         <div class="col-lg-3 hidden">
-            <img class="portre" alt="kep" src="img/tanacs/laszlocs.jpg"/>
+            <img class="hidden" alt="kep" src="img/tanacs/laszlocs.jpg"/>
         </div>
         <div class="col-lg-9">
             <h3 class="tname">Dr. László J. Csaba</h3>
@@ -216,7 +216,7 @@
     </div>
     <div class="row ttag">
         <div class="col-lg-3 hidden">
-            <img class="portre" alt="kep" src="img/tanacs/gyulaiz.jpg"/>
+            <img class="hidden" alt="kep" src="img/tanacs/gyulaiz.jpg"/>
         </div>
         <div class="col-lg-9">
             <h3 class="tname">Gyulai Zita</h3>
@@ -226,7 +226,7 @@
     </div>
     <div class="row ttag">
         <div class="col-lg-3 hidden">
-            <img class="portre" alt="kep" src="img/tanacs/horinkag.jpg"/>
+            <img class="hidden" alt="kep" src="img/tanacs/horinkag.jpg"/>
         </div>
         <div class="col-lg-9">
             <h3 class="tname">Dr. Horinka Gábor</h3>
@@ -236,7 +236,7 @@
     </div>
     <div class="row ttag">
         <div class="col-lg-3 hidden">
-            <img class="portre" alt="kep" src="img/tanacs/csernyil.jpg"/>
+            <img class="hidden" alt="kep" src="img/tanacs/csernyil.jpg"/>
         </div>
         <div class="col-lg-9">
             <h3 class="tname">Csernyi László</h3>

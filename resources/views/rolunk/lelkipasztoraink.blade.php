@@ -5,7 +5,7 @@
 <div class="row">
     <div class="col-lg-6">
         <figure>
-            <img src="img/pajor_andras.jpg" alt="pajor_andras">
+            <img class="portre" src="img/pajor_andras.jpg" alt="pajor_andras">
             <figcaption>
                 <h2><strong><a href=/pajor_andras>Pajor András</a></strong></h2>
                 plébános
@@ -14,7 +14,7 @@
     </div>
     <div class="col-lg-6">
         <figure>
-            <img src="img/danko_ferenc.jpg" alt="danko_ferenc">
+            <img class="portre" src="img/danko_ferenc.jpg" alt="danko_ferenc">
             <figcaption>
                 <h2><strong>Dankó Ferenc</strong></h2>
                 kórházlelkész, kisegítő lelkész
