@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+- phpMyAdmin XML Dump
+- version 4.6.6
+- https://www.phpmyadmin.net
+-
+- Host: localhost:3306
+- Generation Time: Jun 19, 2017 at 04:33 PM
+- Server version: 10.1.22-MariaDB-cll-lve
+- PHP Version: 5.6.30
+-->
+
+<pma_xml_export version="1.0" xmlns:pma="https://www.phpmyadmin.net/some_doc_url/">
+    <!--
+    - Structure schemas
+    -->
+    <pma:structure_schemas>
+        <pma:database name="sgohehrx_kassaiter" collation="utf8_general_ci" charset="utf8">
+            <pma:table name="hirdetes">
+                CREATE TABLE `hirdetes` (
+                  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+                  `story` text COLLATE utf8mb4_unicode_ci NOT NULL,
+                  PRIMARY KEY (`id`)
+                ) ENGINE=MyISAM AUTO_INCREMENT=13 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+            </pma:table>
+        </pma:database>
+    </pma:structure_schemas>
+
+    <!--
+    - Database: 'sgohehrx_kassaiter'
+    -->
+    <database name="sgohehrx_kassaiter">
+        <!-- Table hirdetes -->
+        <table name="hirdetes">
+            <column name="id">1</column>
+            <column name="story">Szeretettel köszöntjük Levente, Zoltán, Iván és Vilmos nevű testvéreinket, akik ezekben a napokban ünneplik névnapjukat. Isten éltesse őket sokáig!</column>
+        </table>
+        <table name="hirdetes">
+            <column name="id">2</column>
+            <column name="story">A templomi huzat elhárítására téglajegyek a sekrestyében és az irodában válthatók. A munka folytatásához egy újabb nagyobb anyagi lendületre lenne szükségünk.</column>
+        </table>
+        <table name="hirdetes">
+            <column name="id">3</column>
+            <column name="story">Merre halad a világ? Kanadában eddigi elképzeléseinket felülmúló törvény elfogadásáról tudósít a Keresztény élet mostani számára. Ne menjünk el folyóiratok nélkül.</column>
+        </table>
+        <table name="hirdetes">
+            <column name="id">4</column>
+            <column name="story">Mindenkinek, aki közreműködést vállalt pünkösdi és bérmálási, és úrnapi ünnepünk emlékezetessé tételében, az egész közösség nevében szeretettel mondok köszönetet.</column>
+        </table>
+        <table name="hirdetes">
+            <column name="id">5</column>
+            <column name="story">Folytatjuk a táborokra való gyűjtést – a Szent Antal szobor előtti perselybe.</column>
+        </table>
+        <table name="hirdetes">
+            <column name="id">6</column>
+            <column name="story">A nyár folyamán figyeljünk rá, hogy egyetlen vasárnapi szentmisénk se maradjon el, még utazásaink során se, külföldön sem baj, ha a szöveget nem értjük, de a szertartást tudjuk követni. Az elsőáldozásra készülő gyerekek családjai erre különösen is törekedjenek! Nyaralásainkból megérkezve próbáljuk meg úgy alakítani az időnket, hogy ide érjünk a vasárnapi misékre, és így tarthassuk a közösséggel a kapcsolatot. Mindenkinek nagyon szép nyarat kívánunk!</column>
+        </table>
+        <table name="hirdetes">
+            <column name="id">7</column>
+            <column name="story">Akinek nem jutott Pünkösdi Szentlélek Híradó, vigyen magával egy példányt, és a nyár folyamán mindannyian használjuk a benne található imákat!</column>
+        </table>
+        <table name="hirdetes">
+            <column name="id">8</column>
+            <column name="story">Szabad misék az üres rovatokban.</column>
+        </table>
+    </database>
+</pma_xml_export>

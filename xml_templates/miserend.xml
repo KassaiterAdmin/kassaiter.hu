@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<pma_xml_export version="1.0" xmlns:pma="https://www.phpmyadmin.net/some_doc_url/">
+    <pma:structure_schemas>
+        <pma:database name="sgohehrx_kassaiter" collation="utf8_general_ci" charset="utf8">
+            <pma:table name="miserend">
+                CREATE TABLE `miserend` (
+                  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+                  `date` date NOT NULL,
+                  `time` varchar(191) COLLATE utf8mb4_unicode_ci NOT NULL,
+                  `story` varchar(191) COLLATE utf8mb4_unicode_ci NOT NULL,
+                  `type` varchar(191) COLLATE utf8mb4_unicode_ci NOT NULL,
+                  `priest` varchar(191) COLLATE utf8mb4_unicode_ci NOT NULL,
+                  PRIMARY KEY (`id`)
+                ) ENGINE=MyISAM AUTO_INCREMENT=17 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+            </pma:table>
+        </pma:database>
+    </pma:structure_schemas>
+
+    <database name="sgohehrx_kassaiter">        
+        <table name="miserend">
+            <column name="id">1</column>
+            <column name="date">2017-06-17</column>
+            <column name="time">18:30</column>
+            <column name="story">saját</column>
+            <column name="type">org.</column>
+            <column name="priest">András atya</column>
+        </table>
+        <table name="miserend">
+            <column name="id">2</column>
+            <column name="date">2017-06-18</column>
+            <column name="time">10:00</column>
+            <column name="story">Úrnapi nagymise – a népért</column>
+            <column name="type">org.</column>
+            <column name="priest">András atya</column>
+        </table>
+        <table name="miserend">
+            <column name="id">3</column>
+            <column name="date">2017-06-18</column>
+            <column name="time">18:30</column>
+            <column name="story"> </column>
+            <column name="type">org.</column>
+            <column name="priest">András atya</column>
+        </table>
+        <table name="miserend">
+            <column name="id">4</column>
+            <column name="date">2017-06-19</column>
+            <column name="time">7:30</column>
+            <column name="story"> </column>
+            <column name="type">org.</column>
+            <column name="priest">Ferenc atya</column>
+        </table>
+        <table name="miserend">
+            <column name="id">5</column>
+            <column name="date">2017-06-20</column>
+            <column name="time">18:30</column>
+            <column name="story">Rózsafüzér Társulat élő és + tagjai.</column>
+            <column name="type">org.</column>
+            <column name="priest">Ferenc atya</column>
+        </table>
+        <table name="miserend">
+            <column name="id">6</column>
+            <column name="date">2017-06-21</column>
+            <column name="time">18:30</column>
+            <column name="story"> </column>
+            <column name="type">org.</column>
+            <column name="priest">Ferenc atya</column>
+        </table>
+        <table name="miserend">
+            <column name="id">7</column>
+            <column name="date">2017-06-22</column>
+            <column name="time">7:30</column>
+            <column name="story"> </column>
+            <column name="type">cs.</column>
+            <column name="priest">Ferenc atya</column>
+        </table>
+        <table name="miserend">
+            <column name="id">8</column>
+            <column name="date">2017-06-23</column>
+            <column name="time">18:30</column>
+            <column name="story"> </column>
+            <column name="type">org.</column>
+            <column name="priest">Ferenc atya</column>
+        </table>
+        <table name="miserend">
+            <column name="id">9</column>
+            <column name="date">2017-06-24</column>
+            <column name="time">18:30</column>
+            <column name="story">+ Gabriella édesanyáért</column>
+            <column name="type">org.</column>
+            <column name="priest">András atya</column>
+        </table>        
+        <table name="miserend">
+            <column name="id">10</column>
+            <column name="date">2017-06-25</column>
+            <column name="time">7:30</column>
+            <column name="story"> </column>
+            <column name="type">org.</column>
+            <column name="priest">Ferenc atya</column>
+        </table>
+        <table name="miserend">
+            <column name="id">11</column>
+            <column name="date">2017-06-25</column>
+            <column name="time">9:00</column>
+            <column name="story">Hősi halottainkért</column>
+            <column name="type"> </column>
+            <column name="priest">András atya</column>
+        </table>
+        <table name="miserend">
+            <column name="id">12</column>
+            <column name="date">2017-06-25</column>
+            <column name="time">10:30</column>
+            <column name="story">+ Erzsébet és Antal, + szülők és tvk.</column>
+            <column name="type"> </column>
+            <column name="priest">András atya</column>
+        </table>
+        <table name="miserend">
+            <column name="id">13</column>
+            <column name="date">2017-06-25</column>
+            <column name="time">18:30</column>
+            <column name="story">+ Édesanya és nagyszülők</column>
+            <column name="type">org.</column>
+            <column name="priest">András atya</column>
+        </table>
+    </database>
+</pma_xml_export>
