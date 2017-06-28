@@ -33,34 +33,42 @@
         <!-- Table hirdetes -->
         <table name="hirdetes">
             <column name="id">1</column>
-            <column name="story">Szeretettel köszöntjük Levente, Zoltán, Iván és Vilmos nevű testvéreinket, akik ezekben a napokban ünneplik névnapjukat. Isten éltesse őket sokáig!</column>
+            <column name="story">Szeretettel köszöntjük Vilmos, László, Irén, Levente, Péter, Pál, Annamária és Ottó nevű testvéreinket, akik ezekben a napokban ünneplik névnapjukat. Isten éltesse őket sokáig!</column>
         </table>
         <table name="hirdetes">
             <column name="id">2</column>
-            <column name="story">A templomi huzat elhárítására téglajegyek a sekrestyében és az irodában válthatók. A munka folytatásához egy újabb nagyobb anyagi lendületre lenne szükségünk.</column>
+            <column name="story">A templomi felső nyílászárók újraépítéséhez téglajegyek a sekrestyében és az irodában válthatók. A munka folytatásához egy újabb nagyobb anyagi lendületre lenne szükségünk.</column>
         </table>
         <table name="hirdetes">
             <column name="id">3</column>
-            <column name="story">Merre halad a világ? Kanadában eddigi elképzeléseinket felülmúló törvény elfogadásáról tudósít a Keresztény élet mostani számára. Ne menjünk el folyóiratok nélkül.</column>
+            <column name="story">Mi áll a keresztényüldözések hátterében? A tényfeltáró cikket a Keresztény élet mostani számában olvashatjuk. Ne menjünk el folyóiratok nélkül.</column>
         </table>
         <table name="hirdetes">
             <column name="id">4</column>
-            <column name="story">Mindenkinek, aki közreműködést vállalt pünkösdi és bérmálási, és úrnapi ünnepünk emlékezetessé tételében, az egész közösség nevében szeretettel mondok köszönetet.</column>
-        </table>
-        <table name="hirdetes">
-            <column name="id">5</column>
             <column name="story">Folytatjuk a táborokra való gyűjtést – a Szent Antal szobor előtti perselybe.</column>
         </table>
         <table name="hirdetes">
+            <column name="id">5</column>
+            <column name="story">A nyár folyamán figyeljünk rá, hogy egyetlen vasárnapi szentmisénk se maradjon el, még utazásaink során se, külföldön sem baj, ha a szöveget nem értjük, de a szertartást tudjuk követni. Az elsőáldozásra készülő gyerekek családjai erre különösen is törekedjenek! Nyaralásainkból megérkezve próbáljuk meg úgy alakítani az időnket, hogy ide érjünk a vasárnapi esti misékre, és így tarthassuk a közösséggel a kapcsolatot. Mindenkinek további szép nyarat kívánunk!</column>
+        </table>
+        <table name="hirdetes">
             <column name="id">6</column>
-            <column name="story">A nyár folyamán figyeljünk rá, hogy egyetlen vasárnapi szentmisénk se maradjon el, még utazásaink során se, külföldön sem baj, ha a szöveget nem értjük, de a szertartást tudjuk követni. Az elsőáldozásra készülő gyerekek családjai erre különösen is törekedjenek! Nyaralásainkból megérkezve próbáljuk meg úgy alakítani az időnket, hogy ide érjünk a vasárnapi misékre, és így tarthassuk a közösséggel a kapcsolatot. Mindenkinek nagyon szép nyarat kívánunk!</column>
+            <column name="story">A jövő vasárnapon tarjuk az úgynevezett „Péterfillérek” gyűjtést, amely az Egyház központi céljait támogatja, a perselyadományokra így készüljünk.</column>
         </table>
         <table name="hirdetes">
             <column name="id">7</column>
-            <column name="story">Akinek nem jutott Pünkösdi Szentlélek Híradó, vigyen magával egy példányt, és a nyár folyamán mindannyian használjuk a benne található imákat!</column>
+            <column name="story">Hétfőn este 6 órától a Cursillo Közösség találkozik Közösségi Házunkban.</column>
         </table>
         <table name="hirdetes">
             <column name="id">8</column>
+            <column name="story">Szombaton este urnatemetőnk halottaiért ajánljuk fel a szentmisét, szeretettel várjuk a hozzátartozókat.</column>
+        </table>
+        <table name="hirdetes">
+            <column name="id">9</column>
+            <column name="story">A jövő héten elmarad az Oltáregyesület szentségimádása, erre legközelebb szeptember 3-án kerül sor.</column>
+        </table>
+        <table name="hirdetes">
+            <column name="id">10</column>
             <column name="story">Szabad misék az üres rovatokban.</column>
         </table>
     </database>
