@@ -37,6 +37,10 @@ Route::get('/hoka_imre', function () {
     return view('szemelyek.hoka_imre');
 });
 
+Route::get('/tarnai_bela', function () {
+    return view('szemelyek.tarnai_bela');
+});
+
 Route::get('/olvasnivalo', function () {
     return view('olvasnivalo');
 });

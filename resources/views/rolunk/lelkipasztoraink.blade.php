@@ -26,9 +26,9 @@
     <div class="col-lg-6">
         <h3>Plébánosok:</h3>
         <div class="col-lg-8"><a href=/mihalovics_zsigmond>Mihalovics Zsigmond</a></div> <div class="col-lg-4">1919-1944.</div>
-        <div class="col-lg-8"><a href=/seres_ferenc>Seres Ferenc</a></div> <div class="col-lg-4">944-1963.</div>
+        <div class="col-lg-8"><a href=/seres_ferenc>Seres Ferenc</a></div> <div class="col-lg-4">1944-1963.</div>
         <div class="col-lg-8"><a href=/hoka_imre>Hóka Imre</a></div> <div class="col-lg-4">1963-1973.</div>
-        <div class="col-lg-8">Tarnai Béla</div> <div class="col-lg-4">1973-2002.</div>
+        <div class="col-lg-8"><a href=/tarnai_bela>Tarnai Béla</a></div> <div class="col-lg-4">1973-2002.</div>
         <div class="col-lg-8"><a href=/pajor_andras>Pajor András</a></div> <div class="col-lg-4">2002-</div>
     </div>
     <div class="col-lg-6">
