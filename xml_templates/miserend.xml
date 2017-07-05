@@ -20,86 +20,6 @@
     <database name="sgohehrx_kassaiter">
         <table name="miserend">
             <column name="id">1</column>
-            <column name="date">2017-06-24</column>
-            <column name="time">18:30</column>
-            <column name="story">+ Gabriella édesanyáért</column>
-            <column name="type">org.</column>
-            <column name="priest">András atya</column>
-        </table>
-        <table name="miserend">
-            <column name="id">2</column>
-            <column name="date">2017-06-25</column>
-            <column name="time">7:30</column>
-            <column name="story"></column>
-            <column name="type">org.</column>
-            <column name="priest">Ferenc atya</column>
-        </table>
-        <table name="miserend">
-            <column name="id">3</column>
-            <column name="date">2017-06-25</column>
-            <column name="time">9:00</column>
-            <column name="story">Hősi halottainkért</column>
-            <column name="type">org.</column>
-            <column name="priest">András atya</column>
-        </table>
-        <table name="miserend">
-            <column name="id">4</column>
-            <column name="date">2017-06-25</column>
-            <column name="time">10:30</column>
-            <column name="story">+ Erzsébet és Antal, + szülők és tvk.</column>
-            <column name="type">org.</column>
-            <column name="priest">András atya</column>
-        </table>
-        <table name="miserend">
-            <column name="id">5</column>
-            <column name="date">2017-06-25</column>
-            <column name="time">18:30</column>
-            <column name="story">+ Édesanya és nagyszülők</column>
-            <column name="type">org.</column>
-            <column name="priest"></column>
-        </table>
-        <table name="miserend">
-            <column name="id">6</column>
-            <column name="date">2017-06-26</column>
-            <column name="time">7:30</column>
-            <column name="story">Élő László nagyapáért és dédnagyapáért</column>
-            <column name="type">cs.</column>
-            <column name="priest">Ferenc atya</column>
-        </table>
-        <table name="miserend">
-            <column name="id">7</column>
-            <column name="date">2017-06-27</column>
-            <column name="time">18:30</column>
-            <column name="story">Rózsafüzér Társulat élő és + tai.</column>
-            <column name="type">cs.</column>
-            <column name="priest">Ferenc atya</column>
-        </table>
-        <table name="miserend">
-            <column name="id">8</column>
-            <column name="date">2017-06-28</column>
-            <column name="time">18:30</column>
-            <column name="story">+ Édesanyáért és nagyanyáért</column>
-            <column name="type">org.</column>
-            <column name="priest">Ferenc atya</column>
-        </table>
-        <table name="miserend">
-            <column name="id">9</column>
-            <column name="date">2017-06-29</column>
-            <column name="time">7:30</column>
-            <column name="story">Élő családtagokért</column>
-            <column name="type">cs.</column>
-            <column name="priest">Ferenc atya</column>
-        </table>
-        <table name="miserend">
-            <column name="id">10</column>
-            <column name="date">2017-06-30</column>
-            <column name="time">18:30</column>
-            <column name="story"></column>
-            <column name="type">org.</column>
-            <column name="priest">Ferenc atya</column>
-        </table>
-        <table name="miserend">
-            <column name="id">11</column>
             <column name="date">2017-07-01</column>
             <column name="time">18:30</column>
             <column name="story">Urnatemetőnk halottaiért</column>
@@ -107,7 +27,7 @@
             <column name="priest">András atya</column>
         </table>
         <table name="miserend">
-            <column name="id">12</column>
+            <column name="id">2</column>
             <column name="date">2017-07-02</column>
             <column name="time">7:30</column>
             <column name="story"></column>
@@ -115,7 +35,7 @@
             <column name="priest">Ferenc atya</column>
         </table>
         <table name="miserend">
-            <column name="id">13</column>
+            <column name="id">3</column>
             <column name="date">2017-07-02</column>
             <column name="time">9:00</column>
             <column name="story"></column>
@@ -123,7 +43,7 @@
             <column name="priest">András atya</column>
         </table>
         <table name="miserend">
-            <column name="id">14</column>
+            <column name="id">4</column>
             <column name="date">2017-07-02</column>
             <column name="time">10:30</column>
             <column name="story">+ Gabriella (korábbi tem.)</column>
@@ -131,10 +51,98 @@
             <column name="priest">András atya</column>
         </table>
         <table name="miserend">
-            <column name="id">15</column>
+            <column name="id">5</column>
             <column name="date">2017-07-02</column>
             <column name="time">18:30</column>
+            <column name="story">+ Máté (korábbi tem)</column>
+            <column name="type">org.</column>
+            <column name="priest">András atya</column>
+        </table>
+        <table name="miserend">
+            <column name="id">6</column>
+            <column name="date">2017-07-03</column>
+            <column name="time">7:30</column>
+            <column name="story">+ János</column>
+            <column name="type">cs.</column>
+            <column name="priest">Ferenc atya</column>
+        </table>
+        <table name="miserend">
+            <column name="id">7</column>
+            <column name="date">2017-07-04</column>
+            <column name="time">18:30</column>
+            <column name="story">Rózsafüzér Társulat élő és + tai.</column>
+            <column name="type">cs.</column>
+            <column name="priest">Ferenc atya</column>
+        </table>
+        <table name="miserend">
+            <column name="id">8</column>
+            <column name="date">2017-07-05</column>
+            <column name="time">18:30</column>
             <column name="story"></column>
+            <column name="type">org.</column>
+            <column name="priest">András atya</column>
+        </table>
+        <table name="miserend">
+            <column name="id">9</column>
+            <column name="date">2017-07-06</column>
+            <column name="time">7:30</column>
+            <column name="story">Élő Mór</column>
+            <column name="type">cs.</column>
+            <column name="priest">Ferenc atya</column>
+        </table>
+        <table name="miserend">
+            <column name="id">10</column>
+            <column name="date">2017-07-07</column>
+            <column name="time">7:30</column>
+            <column name="story">+ Irén</column>
+            <column name="type">cs.</column>
+            <column name="priest">Ferenc atya</column>
+        </table>
+        <table name="miserend">
+            <column name="id">11</column>
+            <column name="date">2017-07-07</column>
+            <column name="time">18:30</column>
+            <column name="story"></column>
+            <column name="type">org.</column>
+            <column name="priest">András atya</column>
+        </table>
+        <table name="miserend">
+            <column name="id">12</column>
+            <column name="date">2017-07-08</column>
+            <column name="time">18:30</column>
+            <column name="story">+ Édesanya és nagyszülők</column>
+            <column name="type">org.</column>
+            <column name="priest">András atya</column>
+        </table>
+        <table name="miserend">
+            <column name="id">13</column>
+            <column name="date">2017-07-09</column>
+            <column name="time">7:30</column>
+            <column name="story"></column>
+            <column name="type">org.</column>
+            <column name="priest">Ferenc atya</column>
+        </table>
+        <table name="miserend">
+            <column name="id">14</column>
+            <column name="date">2017-07-09</column>
+            <column name="time">9:00</column>
+            <column name="story"></column>
+            <column name="type">org.</column>
+            <column name="priest">András atya</column>
+        </table>
+        <table name="miserend">
+            <column name="id">15</column>
+            <column name="date">2017-07-09</column>
+            <column name="time">10:30</column>
+            <column name="story">+ Szülők és testvérek, Erzsébet és Antal</column>
+            <column name="type">org.</column>
+            <column name="priest">András atya</column>
+        </table>
+        <table name="miserend">
+            <column name="id">16</column>
+            <column name="date">2017-07-09</column>
+            <column name="time">18:30</column>
+            <column name="story">Szent Mónika Kör tagjai</column>
             <column name="type">org.</column>
             <column name="priest">András atya</column>
         </table>
