@@ -7,7 +7,7 @@
 /.vagrant
 Homestead.json
 Homestead.yaml
-.env
-.package.json
-.package-lock.json
+/.env
+/.package.json
+/.package-lock.json
 
