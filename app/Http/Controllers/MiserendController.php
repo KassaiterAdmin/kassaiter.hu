@@ -23,6 +23,14 @@ class MiserendController extends Controller
     {
         // Miserend::truncate();
 
+        $this->validate(\request(),[
+            //'date' => 'required|date_format:Y-m-d',
+            //'time' => 'required|date_format:H:i' ,
+            //'story' => 'nullable',
+            //'type'  => 'nullable|in:cs.,org.',
+            //'priest' => 'nullable'
+        ]);
+
         for($i=1;$i <=15; $i++){
             $miserend = new Miserend;
             $item = 'item'.$i;
