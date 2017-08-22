@@ -10,8 +10,10 @@
                 </a>
             </div>
             <div class="col-sm-3 col-lg-3 menu-box">
-                <i class="material-icons sized colored">event_note</i><br>
-                <h2>Miserend</h2>
+                <a href="/miserend">
+                    <i class="material-icons sized colored">event_note</i><br>
+                    <h2>Miserend</h2>
+                </a>
             </div>
             <div class="col-sm-3 col-lg-3 menu-box">
                 <i class="material-icons sized colored">nature_people</i><br>
