@@ -14,6 +14,23 @@ class HirdetesController extends Controller
 
     public function index()
     {
-        return view('admin.hirdetesek');
+        $hirdetes = Hirdetes::all()->sortBy('id');
+
+        return view('admin.hirdetesek')->withHirdetes ( $hirdetes )->withCounter ( sizeof($hirdetes));
+    }
+
+    public function store()
+    {
+        Hirdetes::truncate();
+
+        for($i=1;$i <=15; $i++){
+            $hirdetes = new Hirdetes;
+            $item = 'item'.$i;
+            if(empty(\request($item)) == false) {
+                $hirdetes->story = \request($item);
+                $hirdetes->save();
+            }
+        }
+        return redirect('/admin');
     }
 }

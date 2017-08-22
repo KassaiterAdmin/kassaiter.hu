@@ -72,6 +72,9 @@ li.active{
   border-left: 0;
   margin: 10px 0;
 }
+.btn-primary{
+  float: right;
+}
 .form-control{
   height: 40px;
   max-width: calc(100% - 100px);
@@ -281,6 +284,7 @@ h2, h3{
 }
 
 .material-icons.sized { font-size: 65px; }
+
 .material-icons.colored { color: #69544a; }
 
 .menu-box{
@@ -297,5 +301,16 @@ h2, h3{
     font-size: 16pt;
     text-align: center;
     margin: 0;
+  }
+}
+.form-group{
+  width:100% !important;
+  max-width: 100%;
+  .form_hirdetes{
+    height: auto;
+    width: 100%;
+    max-width: 100%;
+    border-radius: 4px;
+    margin: 5px 0;
   }
 }
