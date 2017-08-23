@@ -10,5 +10,5 @@ Homestead.yaml
 /.env
 /.package.json
 /.package-lock.json
-
+/readme.md
 /package-lock.json
