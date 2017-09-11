@@ -15,7 +15,7 @@
                     <h2>Miserend</h2>
                 </a>
             </div>
-            <div class="col-sm-3 col-lg-3 menu-box">
+            <div class="col-sm-3 col-lg-3 menu-box hidden">
                 <i class="material-icons sized colored">nature_people</i><br>
                 <h2>Programok</h2>
             </div>

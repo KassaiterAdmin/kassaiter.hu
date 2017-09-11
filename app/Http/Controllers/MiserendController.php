@@ -21,21 +21,30 @@ class MiserendController extends Controller
 
     public function store()
     {
-        // Miserend::truncate();
+        Miserend::truncate();
 
         $this->validate(\request(),[
-            //'date' => 'required|date_format:Y-m-d',
-            //'time' => 'required|date_format:H:i' ,
-            //'story' => 'nullable',
-            //'type'  => 'nullable|in:cs.,org.',
-            //'priest' => 'nullable'
+            'date' => 'date_format:Y-m-d',
+            'time' => 'date_format:H:i' ,
+            'story' => 'nullable',
+            'type'  => 'nullable|in:cs.,org.',
+            'priest' => 'nullable'
         ]);
 
         for($i=1;$i <=15; $i++){
             $miserend = new Miserend;
-            $item = 'item'.$i;
-            if(empty(\request($item)) == false) {
-
+            $date = 'date'.$i;
+            $time = 'time'.$i;
+            $story = 'story'.$i;
+            $type = 'type'.$i;
+            $priest = 'priest'.$i;
+            if(empty(\request($date)) == false) {
+                $miserend->date = \request($date);
+                $miserend->time = \request($time);
+                $miserend->story = \request($story);
+                $miserend->type = \request($type);
+                $miserend->priest = \request($priest);
+                $miserend->save();
             }
         }
         return redirect('/admin');

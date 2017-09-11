@@ -68,7 +68,7 @@ li.active{
 .btn-default{
   height: 40px;
   width: 100px;
-  border-radius: 0px 4px 4px 0px;
+  border-radius: 0 4px 4px 0;
   border-left: 0;
   margin: 10px 0;
 }
@@ -245,7 +245,7 @@ p{
   column-count: 4;
   column-gap: 6px;
   list-style-position: inside;
-  padding-left: 0px;
+  padding-left: 0;
 }
 
 .pdfobject-container {
@@ -303,6 +303,13 @@ h2, h3{
     margin: 0;
   }
 }
+.customHr{
+  width: 95%;
+  font-size: 2px;
+  line-height: 2px;
+  background-color: #69544a;
+  margin: 5px auto;
+}
 .form-group{
   width:100% !important;
   max-width: 100%;
@@ -310,6 +317,41 @@ h2, h3{
     height: auto;
     width: 100%;
     max-width: 100%;
+    border-radius: 4px;
+    margin: 5px 0;
+  }
+  .form_date{
+    height: auto;
+    width: 15%;
+    max-width: 15%;
+    border-radius: 4px;
+    margin: 5px 0;
+  }
+  .form_time{
+    height: auto;
+    width: 10%;
+    max-width: 10%;
+    border-radius: 4px;
+    margin: 5px 0;
+  }
+  .form_story{
+    height: auto;
+    width: 45%;
+    max-width: 45%;
+    border-radius: 4px;
+    margin: 5px 0;
+  }
+  .form_type{
+    height: auto;
+    width: 10%;
+    max-width: 10%;
+    border-radius: 4px;
+    margin: 5px 0;
+  }
+  .form_priest{
+    height: auto;
+    width: 15%;
+    max-width: 15%;
     border-radius: 4px;
     margin: 5px 0;
   }
