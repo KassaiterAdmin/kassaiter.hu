@@ -2,7 +2,7 @@
 
 @section('content')
         <div class="row">
-            <div class="col-lg-6">
+            <div class="col-lg-5">
                 <h2>Aktuális hirdetéseink</h2>
                 <ol>
                     @foreach ($hirdetes as $item)
@@ -10,7 +10,7 @@
                     @endforeach
                 </ol>
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-7">
                 <div class="row">
 		<h2>Rendszeres alkalmaink</h2>
 		<p>

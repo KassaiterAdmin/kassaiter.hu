@@ -12,6 +12,8 @@
         <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
         <link href="css/app.css" rel="stylesheet" type="text/css">
         <link href="css/nav.css" rel="stylesheet" type="text/css">
+        <link href="css/bootstrap-datetimepicker.min.css" rel="stylesheet" media="screen">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <link rel="shortcut icon" type="image/svg" href="/img/logo.svg"/>
 
     </head>
@@ -25,6 +27,7 @@
     </body>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="js/bootstrap-datetimepicker.js" charset="UTF-8"></script>
     <script src="js/pdfobject.js"></script>
     <script>PDFObject.embed("docs/szh_2017_husvet.pdf", "#szentlelek_hirado");</script>
 
@@ -37,5 +40,20 @@
         ga('create', 'UA-76686221-2', 'auto');
         ga('send', 'pageview');
 
+    </script>
+
+
+    <script type="text/javascript">
+        $('.form_date').datetimepicker({
+            format: 'yyyy-mm-dd',
+            language:  'en',
+            weekStart: 1,
+            todayBtn:  1,
+            autoclose: 1,
+            todayHighlight: 1,
+            startView: 2,
+            minView: 2,
+            forceParse: 0
+        });
     </script>
 </html>

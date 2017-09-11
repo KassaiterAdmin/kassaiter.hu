@@ -13,10 +13,6 @@ Route::get('/', function () {
     return view('home')->withMiserend ( $miserend )->withHirdetes ( $hirdetes );
 });
 
-Route::get('/admin', function () {
-    return view('admin');
-});
-
 Route::get('/romzsa_teodor', function () {
     return view('szemelyek.romzsa_teodor');
 });
@@ -119,3 +115,9 @@ Route::any ( '/konyvtar_kereso', function () {
 Auth::routes();
 
 Route::get('/admin', 'AdminController@index')->name('admin');
+
+Route::get('/hirdetesek', 'HirdetesController@index');
+Route::post('/hirdetesek','HirdetesController@store');
+
+Route::get('/miserend', 'MiserendController@index');
+Route::post('/miserend','MiserendController@store');
