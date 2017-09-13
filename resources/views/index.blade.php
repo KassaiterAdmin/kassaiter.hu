@@ -29,7 +29,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <script src="js/bootstrap-datetimepicker.js" charset="UTF-8"></script>
     <script src="js/pdfobject.js"></script>
-    <script>PDFObject.embed("docs/szh_2017_husvet.pdf", "#szentlelek_hirado");</script>
+    <script>PDFObject.embed("docs/szh_2017_osz.pdf", "#szentlelek_hirado");</script>
 
     <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
