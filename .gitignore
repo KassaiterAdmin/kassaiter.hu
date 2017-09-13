@@ -8,6 +8,8 @@
 Homestead.json
 Homestead.yaml
 /.env
+/.env.example
+/.htaccess
 /.package.json
 /.package-lock.json
 /readme.md
