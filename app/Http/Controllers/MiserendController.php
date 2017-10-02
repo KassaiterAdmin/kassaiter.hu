@@ -31,7 +31,7 @@ class MiserendController extends Controller
             'priest' => 'nullable'
         ]);
 
-        for($i=1;$i <=15; $i++){
+        for($i=1;$i <=20; $i++){
             $miserend = new Miserend;
             $date = 'date'.$i;
             $time = 'time'.$i;

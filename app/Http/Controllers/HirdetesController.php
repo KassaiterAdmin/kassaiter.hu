@@ -23,7 +23,7 @@ class HirdetesController extends Controller
     {
         Hirdetes::truncate();
 
-        for($i=1;$i <=15; $i++){
+        for($i=1;$i <=20; $i++){
             $hirdetes = new Hirdetes;
             $item = 'item'.$i;
             if(empty(\request($item)) == false) {

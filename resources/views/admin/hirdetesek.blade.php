@@ -12,7 +12,7 @@
                         @foreach($hirdetes as $item)
                             <textarea class="form-control form_hirdetes" id="item{{$item->id}}" name="item{{$item->id}}">{{$item->story}}</textarea><br>
                         @endforeach
-                        @for($i=$counter+1; $i <= 15; $i++)
+                        @for($i=$counter+1; $i <= 20; $i++)
                             <textarea class="form-control form_hirdetes" id="item{{$i}}" name="item{{$i}}"></textarea><br>
                         @endfor
                     </div>

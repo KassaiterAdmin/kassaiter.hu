@@ -21,7 +21,7 @@
                             <input id="type{{$item->id}}" name="type{{$item->id}}" type="text" class="form-control form_hirdetes form_type" value="{{$item->type}}">
                             <input id="priest{{$item->id}}" name="priest{{$item->id}}" type="text" class="form-control form_hirdetes form_priest" value="{{$item->priest}}"><br>
                         @endforeach
-                        @for($i=$counter+1; $i <= 21; $i++)
+                        @for($i=$counter+1; $i <= 20; $i++)
                             <input id="date{{$i}}" name="date{{$i}}" type="text" class="form-control form_hirdetes form_date" value="">
                             <input id="time{{$i}}" name="time{{$i}}" type="text" class="form-control form_hirdetes form_time" value="">
                             <input id="story{{$i}}" name="story{{$i}}" type="text" class="form-control form_hirdetes form_story" value="">
