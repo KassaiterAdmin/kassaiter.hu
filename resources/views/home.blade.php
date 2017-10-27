@@ -1,6 +1,19 @@
 @extends('index')
 
 @section('content')
+        <h1 class="center">A KASSAI TÉRI URNATEMETŐ ÜNNEPI NYITVATARTÁSA</h1>
+        <div class="row">
+            <div class="col-lg-6" style="text-align: right;">
+                Október 29.  Vasárnap<br>
+                November 1. Szerda<br>
+                November 2. Csütörtök
+            </div>
+            <div class="col-lg-6">
+                7:00-12:00 és 18:00-19:30<br>
+                8:30-19:00<br>
+                7:00-19:00
+            </div>
+        </div>
         <div class="row">
             <div class="col-lg-5">
                 <h2>Aktuális hirdetéseink</h2>
