@@ -14,7 +14,7 @@
                 7:00-19:00
             </div>
         </div>
-        <h3 class="center">Ünnepi szentmisék</h3>
+        <h3 style="text-align:center;">Ünnepi szentmisék</h3>
         <div class="row">
             <div class="col-lg-6" style="text-align: right;">
                 November 1. Szerda<br>
