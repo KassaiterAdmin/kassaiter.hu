@@ -14,6 +14,17 @@
                 7:00-19:00
             </div>
         </div>
+        <h3 class="center">Ünnepi szentmisék</h3>
+        <div class="row">
+            <div class="col-lg-6" style="text-align: right;">
+                November 1. Szerda<br>
+                November 2. Csütörtök
+            </div>
+            <div class="col-lg-6">
+                9:00 és 18:30
+                7:30 és 18:30
+            </div>
+        </div>
         <div class="row">
             <div class="col-lg-5">
                 <h2>Aktuális hirdetéseink</h2>
