@@ -4,7 +4,7 @@
         <h1 class="center">A KASSAI TÉRI URNATEMETŐ ÜNNEPI NYITVATARTÁSA</h1>
         <div class="row">
             <div class="col-lg-6" style="text-align: right;">
-                Október 29.  Vasárnap<br>
+                Október 29. Vasárnap<br>
                 November 1. Szerda<br>
                 November 2. Csütörtök
             </div>
@@ -21,7 +21,7 @@
                 November 2. Csütörtök
             </div>
             <div class="col-lg-6">
-                9:00 és 18:30
+                9:00 és 18:30<br>
                 7:30 és 18:30
             </div>
         </div>
