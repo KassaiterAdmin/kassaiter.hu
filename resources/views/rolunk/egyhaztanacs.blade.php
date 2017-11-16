@@ -240,7 +240,7 @@
         </div>
         <div class="col-lg-9">
             <h3 class="tname">Csernyi László</h3>
-            <p>41 éves, nős, két gyeremek édesapja. Informatikus, korábban mérnöktanár. A Fiatal Házasok körének tagja, 2011 közepe óta végzi ennek a honlapnak a fejlesztését.</p>
+            <p>41 éves, nős, két gyeremek édesapja. Informatikus, korábban mérnöktanár. A Fiatal Házasok körének tagja, 2011-2016 között végezte a honlapnak a fejlesztését. Jelenleg a Szent István kápolnában való misehallgatás körülményeinek javítása a szívügye.</p>
             <p>Email: <a href="mailto:CsernyiLaszlo.kassaiter@gmail.com">CsernyiLaszlo.kassaiter@gmail.com</a>(napi rendszerességgel nézi)</p>
         </div>
     </div>
