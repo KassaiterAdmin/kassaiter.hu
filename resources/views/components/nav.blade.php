@@ -10,7 +10,7 @@
         <div class="navbar-collapse collapse ">
             <ul class="nav navbar-nav">
                 <li>
-                    <a class="home_button" href="/"><i class="glyphicon glyphicon-home"></i></a>
+                    <a href="/">Főoldal</a>
                 </li>
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle " data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false">Rólunk &ensp;<span class="glyphicon glyphicon-chevron-down"></span></a>
