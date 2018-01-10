@@ -1,3 +1,14 @@
+<h1>Keresztelés</h1>
+A (gyermek)keresztelés előtt legalább 1 hónappal a plébánia irodában lehet jelentkezni, az időpont egyeztetésére is ekkor kerülhet sor.
+Minden gyermek keresztelését a lakóhely szerinti plébánián kell elindítani.
+Ha nem ott szeretnék a liturgiát, akkor „keresztelési elbocsátót” kell hozni az illetékes plébánostól.
+A keresztelést csak maguk a szülők kérhetik.
+Az ehhez szükséges feltételeket, a keresztelés rendjét, a keresztszülők alkalmasságát a plébánossal tudják megbeszélni.
+A keresztnév a védőszent kiválasztása által történik.
+(<a target="_blank" href="http://www.katolikus.hu/szentek/">Segítség a védőszent nevének választásához</a>)<br /><br />
+A keresztelés anyakönyvezéséhez előre ki lehet tölteni az anyakönyvi adatok űrlapját:<br />
+<a href="docs/keresztelesi_bejelento.pdf">Jelentkezési űrlap</a>
+
 <h2>Keresztség</h2>
 
 A szent keresztség az egész keresztény élet alapja, a lelki élet ajtaja (vitae spiritualis ianua) és kapu a többi szentségekhez. A keresztség által megszabadulunk a bűntől, és mint Isten fiai születtünk újjá, Krisztus tagjai leszünk, betestesülünk az Egyházba és részeseivé váltunk az Egyház küldetésének.<br><br>

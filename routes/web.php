@@ -77,9 +77,9 @@ Route::get('/szentsegeink', function () {
     return View::make('szentsegeink', ['tabs'=>Tabs::get('szentsegeink')]);
 });
 
-Route::get('/szentmise', function () {
-    return view('szentmise');
-});
+// Route::get('/szentmise', function () {
+//    return view('szentmise');
+//});
 
 Route::get('/galeria', function () {
     return view('galeria');

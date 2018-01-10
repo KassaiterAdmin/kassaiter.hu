@@ -35,7 +35,7 @@
                     <a href="#" class="dropdown-toggle " data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false">Egyházi témák &ensp;<span class="glyphicon glyphicon-chevron-down"></span></a>
                     <ul class="dropdown-menu">
                         <li><a href="/szentsegeink">Szentségeink</a></li>
-                        <li><a href="/szentmise">Szentmise</a></li>
+                        <li><a href="http://uj.katolikus.hu/lelkiseg.php?h=42">Szentmise</a></li>
                     </ul>
                 </li>
                 <li class="hidden">
