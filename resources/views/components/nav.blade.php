@@ -16,7 +16,6 @@
                     <a href="#" class="dropdown-toggle " data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false">Rólunk &ensp;<span class="glyphicon glyphicon-chevron-down"></span></a>
                     <ul class="dropdown-menu">
                         <li><a href="/plebania">Plébánia</a></li>
-                        <li><a href="/szolgalat">Szolgálat</a></li>
                         <li><a href="/kollegium">Kollégium</a></li>
                         <li><a href="/lelkipasztoraink">Lelkipásztoraink</a></li>
                         <li><a href="/egyhaztanacs">Egyháztanács</a></li>

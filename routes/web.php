@@ -47,9 +47,9 @@ Route::get('/plebania', function () {
     return View::make('rolunk.plebania', ['tabs'=>Tabs::get('kassaiter')]);
 });
 
-Route::get('/szolgalat', function () {
-    return View::make('rolunk.szolgalat', ['tabs'=>Tabs::get('szentsegek')]);
-});
+// Route::get('/szolgalat', function () {
+//    return View::make('rolunk.szolgalat', ['tabs'=>Tabs::get('szentsegek')]);
+// });
 
 Route::get('/kollegium', function () {
     return view('rolunk.kollegium');
