@@ -38,3 +38,15 @@
 <p><strong>1989.</strong><em><br />Szeptember</em> A templomi hitoktatás mellett megkezdődött   az iskolai hitoktatás.</p>
 <p><strong>1990.</strong><em><br />Június Tarnai Béla</em> plébános   aranymiséje.</p>
 <p><strong>1991-97.</strong><br />Elkészült   a szembemiséző oltár,   megújult a szentély. Befejeződött a templom alagsorában   az igen szép kivitelű urnatemető létrehozása.</p>
+<p>A <strong>2002</strong>-ben közénk érkező, új plébános, Pajor András felújítja a templom hangosítását, átépítteti és felújítja a Közösségi Házat, valamint a plébánia egy részét.
+    Hagyatékrendezés révén felépül a plébánia velencefürdői táborhelye is.</p>
+<p><strong>2003. szeptember 14-én</strong>, Szent Kereszt felmagasztalásának napján az ünnepi szentmise keretében P. Alberto Demeneghi kapucinus atya, a budapesti olasz lelkészség vezetője jelképesen ismét átadta a Mamertini Feszületet Pajor András plébánosnak, ezzel a gesztussal új liturgikus folyamat vette kezdetét. Korábban minden hónap 14-én, később az elsőpénteki, esti szentmisék után a feszület előtt ismétlik meg az egybegyűltek a magyarság felajánlását Jézus Szent Szívének.</p>
+<p><strong>2005-ben</strong> közösségünk jelentősen belekapcsolódik a Budapesti Városmisszióba.</p>
+<p><strong>2006-ban</strong> átadják a Közösségi Ház udvarában létesült Nemzeti Parkot: a székelykapuval, Wass Albert kővel és az ’56-os emlékkővel.</p>
+<p><strong>2007-ben</strong> megalakul a Coenaculum ministránsközösség és az egyetlen budapesti Mária-lány csoport.</p>
+<p>Templomunk <strong>2008-tól</strong> folyamatosan otthont ad a <a href="rozsafuzertarsulatok.hu">Rózsafüzér Társulatok</a> Országos Találkozójának.</p>
+<p><strong>2012 márciusában</strong> a közösség összefogásából megújul templomunk orgonája.</p>
+<p><strong>2013-ban</strong> a templom építése óta végzett legnagyobb munkánk készül el: a templomtető teljes felújítása, melyre május 5-én, Dr. Cserháti József püspök ünnepélyes áldást ad.</p>
+<p><strong>2015-ben</strong> szintén Cserháti püspök úr végzi el plébániánk egyházmegyei vizitációját.</p>
+<p><strong>2016. Pünkösdjére</strong> újjáalakul a Credo Egyesület, tagjai vonulnak be az 1938-as Budapesti Eucharisztikus Világkongresszusra elkészült, s mostanra váratlanul megtalált lobogóval.</p>
+<p><strong>2017. november 5-én</strong> kerül sor templomunk 80. felszentelési évfordulójának megünneplésére, melyre kiállítással, emlékalbummal, a Mamertini Feszület ismertető könyvének megújult kiadásával, templomunk előterének és közösségi házunk rendezvénytermeinek felújításával készültünk. Díszvendégeink voltak: Erdő Péter bíboros-főpásztorunk, mellette Márfi Gyula veszprémi érsek és Udvardy György pécsi megyéspüspök.</p>
