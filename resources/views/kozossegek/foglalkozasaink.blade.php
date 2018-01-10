@@ -6,13 +6,13 @@
     <div class="col-lg-8">
         <div class="row"><p class="fontos_info">Az aktuális időpontok változhatnak (aktuális hírdetés szerint).</p></div>
         <div class="row"><div class="col-lg-4"><strong>Filmklub :</strong></div> <div class="col-lg-8">hirdetés szerint</div></div>
-        <div class="row table-colored"><div class="col-lg-4"><strong>Felnőtt katekézis :</strong></div><div class="col-lg-8">minden héten szerda esténként 19:00-tól</div></div>
+        <div class="row table-colored"><div class="col-lg-4"><strong>Felnőtt katekézis :</strong></div><div class="col-lg-8">minden páros héten szerda esténként 19:00-tól</div></div>
         <div class="row"><div class="col-lg-4"><strong>Biblia kör :</strong></div><div class="col-lg-8">minden páratlan héten a szerda esténként 19:00-tól</div></div>
         <div class="row"><div class="col-lg-4"><strong>Óvodás hittan és <br />kézműves foglalkozás :</strong></div><div class="col-lg-8">szerdánként délután 16:45-től</div></div>
-        <div class="row table-colored"><div class="col-lg-4"><strong>Alsó tagozatos hittan :</strong></div><div class="col-lg-8">szerdánként délután 17:00-tól</div></div>
-        <div class="row"><div class="col-lg-4"><strong>Felső tagozatos hittan :</strong></div><div class="col-lg-8">szerdánként délután 17:45-től</div></div>
+        <div class="row table-colored"><div class="col-lg-4"><strong>Alsó tagozatos közösségi hittan :</strong></div><div class="col-lg-8">szerdánként délután 17:00-tól</div></div>
+        <div class="row"><div class="col-lg-4"><strong>Felső tagozatos közösségi hittan :</strong></div><div class="col-lg-8">szerdánként délután 17:45-től</div></div>
         <div class="row table-colored"><div class="col-lg-4"><strong>Szentségekre készülő <br />felnőttek előkészítése :<br /></strong></div> <div class="col-lg-8">általában minden hónap első vasárnap délutánján <br />- jelentkezni András atyánál lehet</div></div>
-        <div class="row"><div class="col-lg-4"><strong>Fiatal házasok közössége:<br /></strong></div><div class="col-lg-8">minden hónap utolsó hétfőjén 18:00-19:30, a gyerekes alkalmak külön megegyezés szerint<br />- jelentkezni András atyánál, illetve a facebookon a "Kassai téri Keresztény családok közössége"-ben lehet informálódni.</div></div>
+        <div class="row"><div class="col-lg-4"><strong>Fiatal házasok közössége:<br /></strong></div><div class="col-lg-8">minden hónap utolsó hétfőjén 18:00-19:30, a gyerekes alkalmak külön megegyezés szerint<br />- jelentkezni András atyánál, illetve a facebookon a "Kassai téri Keresztény családok közössége"-ben lehet tájékozódni.</div></div>
         <div class="row table-colored"><div class="col-lg-4"><strong>Énekkar:</strong></div> <div class="col-lg-8">minden vasárnap este 19:30-tól 21:00-ig Szalay Kornéllal<br />-folyamatosan lehet csatlakozni</div></div>
     </div>
     <div class="col-lg-2"></div>

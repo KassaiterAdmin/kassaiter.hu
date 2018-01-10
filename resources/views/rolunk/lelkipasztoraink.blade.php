@@ -8,7 +8,7 @@
             <img class="portre" src="img/pajor_andras.jpg" alt="pajor_andras">
             <figcaption>
                 <h2><strong><a href=/pajor_andras>Pajor András</a></strong></h2>
-                plébános
+                plébános, a Keresztény Kulturális Akadémia elnöke
             </figcaption>
         </figure>
     </div>
