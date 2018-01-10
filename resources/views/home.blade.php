@@ -2,6 +2,18 @@
 
 @section('content')
         <div class="row">
+            <div class="col-lg-12">
+                <h4 class="welcome">
+                    Baráti szeretettel fogadjuk oldalunkon mindazokat, akik egy lelkes és családias közösséget keresnek,
+                    eseményekben dús, lelkiségben elmélyült élettel, megértő és minden vallási,
+                    lelki kérdésben megértő atyákkal és befogadásra nyitott, különféle korú családokkal,
+                    magas szintű kulturális élettel. Ahhoz, hogy köztünk bárki „partot érjen”, először is bizalmat kérünk.
+                    Az első kapcsolatfelvétel vagy személyesen, szentmiséink után, közösségi programjaink kapcsán,
+                    vagy egy néhány soros levélen keresztül történhet: <a href="mailto:kassaiter1@gmail.com">kassaiter1(kukac)gmail(pont)com</a>.
+                </h4>
+            </div>
+        </div>
+        <div class="row">
             <div class="col-lg-5">
                 <h2>Aktuális hirdetéseink</h2>
                 <ol>
