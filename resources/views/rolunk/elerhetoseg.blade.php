@@ -29,7 +29,7 @@
                 width="100%"
                 height="600"
                 frameborder="0" style="border:0"
-                src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAslYSsQpBorqxnfkT6G1mmLcFrwmyNUfA&q=Herminamezői+Szentlélek+Plébánia" allowfullscreen>
+                src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAslYSsQpBorqxnfkT6G1mmLcFrwmyNUfA&q=Herminamezői+Szentlélek+Plébánia&language=hu" allowfullscreen>
         </iframe>
     </div>
 @endsection
