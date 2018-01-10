@@ -21,8 +21,9 @@
         </div>
         <div class="col-lg-9">
             <h3 class="tname">Bihary Zoltán</h3>
-            <p>31 éves, nős, műszaki menedzser. A templomunk körzetének önkormányzati képviselője. Herminamezőn, az Amerikai és Erzsébet kirányné útja környékén lakik.
-                Eltökélt szándéka, hogy a lakókörnyezeteében lévőkkel aktívan tudja tartani a kapcsolatot. Feleségével együtt lelkesen részet vesznek az ifjúsági csoportunk tevékenységében is.</p>
+            <p>Fiatal családapa, műszaki menedzser. A templomunk körzetének önkormányzati képviselője. Herminamezőn lakik.
+                Eltökélt szándéka, hogy a lakókörnyezetében lévőkkel aktívan tudja tartani a kapcsolatot.
+                Feleségével együtt lelkesen részt vesznek fiatal házas csoportunk tevékenységében is.</p>
             <p>Email: <a href="mailto:BiharyZoltan.kassaiter@gmail.com">BiharyZoltan.kassaiter@gmail.com</a></p>
         </div>
     </div>
@@ -44,7 +45,8 @@
         </div>
         <div class="col-lg-9">
             <h3 class="tname">Soltész Péter</h3>
-            <p>37 éves, érettségizett általános kertész, pék. Plébániánk valamennyi feladatában lelkes segítőnk, a Rózsfüzér Társulat tagja.
+            <p>Jelenleg még egyedülálló fiatalember, érettségizett általános kertész, pék.
+                Plébániánk valamennyi feladatában lelkes segítőnk, a Rózsfüzér Társulat tagja.
                 Az elmúlt ciklusban is egyházközségi képviselő volt, ötleteinek, kezdeményezéseinek kivitelezésében szeret ő maga is aktívan részt venni.</p>
             <p>Email: <a href="mailto:SolteszPeter.kassaiter@gmail.com">SolteszPeter.kassaiter@gmail.com</a></p>
         </div>
@@ -78,8 +80,8 @@
         <div class="col-lg-9">
             <h3 class="tname">Dr. Szalay Kornél</h3>
             <p>Egykori bencés diák, aki most ügyvédként a plébánia és a Keresztény Kulturális Akadémia jogi kérdéseiben, feladataiban fő segítségünk.
-                Akinek az arca kevésbé, de a hangja mindenkép ismerős lehet, mivel ő a vasárnap esti kántorunk és énekkarunk vezetője is.
-                A 38 éves, nőtlen fiatalember teológus végzettséggel is rendelkezik.</p>
+                Az arca kevésbé, de a hangja mindenkép ismerős lehet, mivel ő a vasárnap esti kántorunk és énekkarunk vezetője is.
+                Jelenleg még nőtlen fiatalember teológus végzettséggel is rendelkezik.</p>
             <p>Email: <a href="mailto:SzalayKornel.kassaiter@gmail.com">SzalayKornel.kassaiter@gmail.com</a></p>
         </div>
     </div>
@@ -108,8 +110,7 @@
         </div>
         <div class="col-lg-9">
             <h3 class="tname">Dr. Zsembery Ákos</h3>
-            <p>Kutató orvos, sejtbiológus, egyetemi oktató. Felesége szintén orvos, három gyermekük van, leányuk Mária-lány, nagyobbik fiuk (reméljük hamarosan a kisebbik is) ministránscsapatunk oszlopos tagja.
-                Egész családjuk szinte valamennyiközösségi programunk lelkes támogatója.</p>
+            <p>Kutató orvos, sejtbiológus, egyetemi oktató. Felesége szintén orvos, három gyermekük van.</p>
             <p>Email: <a href="mailto:ZsemberyAkos.kassaiter@gmail.com">ZsemberyAkos.kassaiter@gmail.com</a></p>
         </div>
     </div>
@@ -119,8 +120,7 @@
         </div>
         <div class="col-lg-9">
             <h3 class="tname">Gáspár Rita</h3>
-            <p>Szociális területen dolgozó, háromgyerekes édesanya, fiai mindanynian ministránsaink. Több mint tíz esztendeje vezeti a Szent Mónika Kört, az édesanyák, nagymamák imaközösségét.
-                Énekkarunk aktív tagja, megszervezte a filmklubot és az olvasókört is.</p>
+            <p>Szociális területen dolgozó, háromgyerekes édesanya, énekkarunk aktív tagja.</p>
             <p>Email: <a href="mailto:GasparRita.kassaiter@gmail.com">GasparRita.kassaiter@gmail.com</a></p>
         </div>
     </div>
@@ -130,8 +130,8 @@
         </div>
         <div class="col-lg-9">
             <h3 class="tname">Vincze Bence</h3>
-            <p>Építómérnök hallgató, vőlegény, ministránsvezető és édesapjával, Vincze Jánossal plébániánk technikai feladatainak hozzáértő szervezője.
-                A lelkes, mindenhez gyakorlati módon hozzáálló fiatalember ksigyerekkorától ministrál, jelenleg is ifjúsági közösségünk egyik szervezője.</p>
+            <p>Fiatal építőmérnök, 2017. tavaszán nősült. Édesapjával, Vincze Jánossal plébániánk technikai feladatainak hozzáértő szervezője.
+                A lelkes, mindenhez gyakorlati módon hozzáálló fiatalember kisgyerekkorától ministrál, jelenleg is fiatal házas közösségünk egyik szervezője.</p>
             <p>Email: <a href="mailto:VinczeBence.kassaiter@gmail.com">VinczeBence.kassaiter@gmail.com</a>(napi rendszerességgel nézi)</p>
         </div>
     </div>
@@ -141,9 +141,7 @@
         </div>
         <div class="col-lg-9">
             <h3 class="tname">Gáspár Csaba</h3>
-            <p>Diploma előtt álló faipari mérnök-jelölt, ministránscsapatunk és ifjúsági közösségünk aktív tagja.
-                Főként a szakmájába vágó plébániai feladatok megtervezője és kivitelezője, de a korábbi, művészeti tevékenységéből eredően a kultrurális munkában is színvonalasan hadra fogható.
-                Kommunikációs kpességei révén jó közösségi ember.</p>
+            <p>Fiatal faipari mérnök.</p>
             <p>Email: <a href="mailto:GasparCsaba.kassaiter@gmail.com">GasparCsaba.kassaiter@gmail.com</a></p>
         </div>
     </div>
@@ -153,8 +151,7 @@
         </div>
         <div class="col-lg-9">
             <h3 class="tname">Kiss Máté</h3>
-            <p>Nemzetközi gazdálkodás szakon szerzett diplomát, jelenleg mesterfokú tanulmányait folytatja logisztikai menedzser szakon.
-                Az ifjúsági közösség aktív tagja, főként rendezvényeink lebonyolításában segédkezik. A közösséghez több szállal is kötődik, édesanyja plébániai irodavezetőnk.</p>
+            <p>Nemzetközi gazdálkodás szakon szerzett diplomát, jelenleg mesterfokú tanulmányait folytatja logisztikai menedzser szakon, édesanyja plébániai irodavezetőnk.</p>
             <p>Email: <a href="mailto:KissMate.kassaiter@gmail.com">KissMate.kassaiter@gmail.com</a></p>
         </div>
     </div>
@@ -198,8 +195,8 @@
         </div>
         <div class="col-lg-9">
             <h3 class="tname">Bende Krisztián</h3>
-            <p>Két gyermeeks családapa, idegenforgalmi szakemberként dolgozik. Feleségével házasságkötésük révén került kapcoslatba a plébániával, azóta rendszeresen jelen vannak köztünk.
-                A fiatal házasok közösségének szervezője.</p>
+            <p>Két gyermekes családapa, idegenforgalmi szakemberként dolgozik.
+                Feleségével házasságkötésük révén került kapcsolatba a plébániával.</p>
             <p>Email: <a href="mailto:BendeKrisztian.kassaiter@gmail.com">BendeKrisztian.kassaiter@gmail.com</a></p>
         </div>
     </div>
@@ -240,7 +237,7 @@
         </div>
         <div class="col-lg-9">
             <h3 class="tname">Csernyi László</h3>
-            <p>41 éves, nős, két gyeremek édesapja. Informatikus, korábban mérnöktanár. A Fiatal Házasok körének tagja, 2011-2016 között végezte a honlapnak a fejlesztését. Jelenleg a Szent István kápolnában való misehallgatás körülményeinek javítása a szívügye.</p>
+            <p>Nős, két gyermek édesapja. Informatikus, korábban mérnöktanár. A Fiatal Házasok körének tagja, korábban honlapunk fejlesztése, jelenleg a Szent István kápolnában, a kisgyermekekkel történő misehallgatás körülményeinek javítása a szívügye.</p>
             <p>Email: <a href="mailto:CsernyiLaszlo.kassaiter@gmail.com">CsernyiLaszlo.kassaiter@gmail.com</a>(napi rendszerességgel nézi)</p>
         </div>
     </div>
