@@ -5,7 +5,7 @@
             <div class="col-lg-12">
                 <p class="center">
                     <br>
-                    Biztos akar lenni abban, hogy adója 1+1%-át nemes kezdeményezések elősegítésére irányítja át? Ha igen, akkor segítse a
+                    Biztos akar lenni abban, hogy adója 1+1%-át nemes kezdeményezések elősegítésére irányítja át? <br> Ha igen, akkor segítse a
                 </p>
             </div>
         </div>
