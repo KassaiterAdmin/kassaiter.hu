@@ -18,7 +18,7 @@
                 <p class="center strong red">0011</p>
                 <p class="center">és a</p>
                 <p class="center strong">Budapest-Herminamezői Szentlélek Plébánia - Árpádházi Szent Erzsébet Alapítványát </p>
-                <p class="center strong">adószám: <span class="strong red">18061275-1-4<span></p>
+                <p class="center strong">adószám: <span class="strong red">18061275-1-42<span></p>
                 <p class="center">(idősek gondozása, ifjúság nevelése, templom karbantartása, családgondozás, stb.)</p>
             </div>
         </div>
