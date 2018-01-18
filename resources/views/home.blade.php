@@ -1,6 +1,27 @@
 @extends('index')
 
 @section('content')
+        <div class="row ado1_ad">
+            <div class="col-lg-12">
+                <p class="center">
+                    <br>
+                    Biztos akar lenni abban, hogy adója 1+1%-át nemes kezdeményezések elősegítésére irányítja át? Ha igen, akkor segítse a
+                </p>
+            </div>
+        </div>
+        <div class="row ado1_ad">
+            <div class="col-lg-4">
+                <img src="/img/ado1.png" alt="1%" />
+            </div>
+            <div class="col-lg-8">
+                <p class="center strong">Magyar Katolikus Egyházat – technikai szám:</p>
+                <p class="center strong red">0011</p>
+                <p class="center">és a</p>
+                <p class="center strong">Budapest-Herminamezői Szentlélek Plébánia - Árpádházi Szent Erzsébet Alapítványát </p>
+                <p class="center strong">adószám: <span class="strong red">18061275-1-4<span></p>
+                <p class="center">(idősek gondozása, ifjúság nevelése, templom karbantartása, családgondozás, stb.)</p>
+            </div>
+        </div>
         <div class="row">
             <div class="col-lg-12">
                 <h4 class="welcome">

@@ -360,9 +360,24 @@ h2, h3{
 .welcome{
   margin-top: 20px;
   line-height: 1.5em;
+  text-align: justify;
 }
 .navbar-default{
   background-color: transparent !important;
+}
+.ado1_ad{
+  text-align: center;
+  font-size: 22px;
+  line-height: 26px;
+}
+.red{
+  color: #800000;
+}
+.strong{
+  font-weight: bold;
+}
+.center{
+  text-align: center;
 }
 
 @media (max-width: 1000px) {
