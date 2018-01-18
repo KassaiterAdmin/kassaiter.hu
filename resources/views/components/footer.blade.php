@@ -10,6 +10,7 @@
                 </address>
                 <p>
                     <i class="glyphicon glyphicon-earphone"></i> 06-1/251-1359 <br>
+                    <i class="glyphicon glyphicon-credit-card"></i> 11714006-20150121 (OTP) <br>
                     <i class="glyphicon glyphicon-envelope"></i> kassaiter1@gmail.com
                 </p>
             </div>
