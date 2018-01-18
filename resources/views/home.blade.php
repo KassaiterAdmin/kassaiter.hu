@@ -10,8 +10,8 @@
             </div>
         </div>
         <div class="row ado1_ad">
-            <div class="col-lg-4">
-                <img src="/img/ado1.png" alt="1%" />
+            <div class="col-lg-4 center">
+                <img class="ado1_pic" src="/img/ado1.png" alt="1%" />
             </div>
             <div class="col-lg-8">
                 <p class="center strong">Magyar Katolikus Egyházat – technikai szám:</p>
